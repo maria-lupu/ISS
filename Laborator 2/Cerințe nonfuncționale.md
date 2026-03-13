@@ -1,0 +1,2 @@
+Cerințe nonfuncționale:
+
