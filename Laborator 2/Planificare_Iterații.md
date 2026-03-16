@@ -1,4 +1,4 @@
-### Planificare Iterații
+### :bulb: Planificare Iterații
 
 **Iterația 1:**
 * **Cazuri de utilizare:**
